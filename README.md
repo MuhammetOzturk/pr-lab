@@ -4,5 +4,6 @@ satir 1: deneme
 satir 2: fix  
 satir B  
 satir C
-BEKİR YILDIRIM  
+BEKİR YILDIRIM    
+ali
 
